@@ -1,0 +1,242 @@
+*{
+    border: 1px solid red;
+
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white;
+    /*display: flex;
+    padding-left: 750px;*/
+
+    position: absolute;
+    bottom: 85%;
+    left: 44%;
+    background-image:linear-gradient(yellow,green);
+
+}
+h4.pizza{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+
+button{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+    border:0px solid black ;
+    color:white ;
+    background-image: linear-gradient(yellow,red);
+    height: 28px;
+    width: 85px;
+    border-radius: 17px;
+    display: flex;
+    margin-left: 6px;
+    margin-bottom: 8%;
+    box-shadow: 0px 2px 8px 7px  gray;
+}
+
+
+h4.burger{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla2{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+h4.momo{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+h4.dolla3{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+
+
+h4.hotdog{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla4{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+
+h4.cb{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla5{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+
+h4.cp{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla6{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+
+h4.dominos{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla7{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+
+h4.ms{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+
+h4.dolla8{
+    display: flex;
+    margin-bottom:2px ;
+    margin-left: 5px ;
+}
+p.Special{
+    display: flex;
+    margin-top:0px ;
+    margin-left: 5px ;
+}
+img{
+    height: 150px;
+    width: 150px;
+    padding-left: 5px;
+    padding-top:5px;
+    padding-right:5px;
+
+}
+
+.container1{
+    display: grid;
+    gap:200px;
+    display: flex;
+   position: absolute;
+   bottom: 49%;
+   left: 15%;
+   box-shadow: 0px 2px 8px 2px grey;
+   border-radius: 10px;
+   
+}
+
+.image1:hover{
+    transform: scale(1.02);
+   box-shadow: 0px 2px 10px 4px yellowgreen;
+   background-image: linear-gradient(cyan,white);
+    border: 5px solid grey;
+    border-radius: 10px;
+    border-style:outset ;
+    
+   
+}
+
+.image2:hover{
+    transform: scale(1.02);
+   box-shadow: 0px 2px 10px 4px yellowgreen;
+   background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
+
+.image3:hover{
+    transform: scale(1.02);
+   box-shadow: 0px 2px 10px 4px yellowgreen;
+   background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
+
+.image4:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 2px 10px 4px yellowgreen;
+    background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
+
+
+.container2{
+    display: grid;
+    gap:200px;
+    display: flex;
+    margin-top: 50px;
+    position: absolute;
+    bottom: 10%;
+    left: 15%;
+    box-shadow: 0px 2px 10px 4px grey;
+    border-radius: 10px;
+   
+
+ }
+
+.image5:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 2px 10px 4px yellowgreen;
+    background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
+
+.image6:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 2px 10px 4px yellowgreen;
+    background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
+
+.image7:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 2px 10px 4px yellowgreen;;
+    background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
+
+.image8:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 2px 10px 4px yellowgreen;;
+    background-image: linear-gradient(cyan,white);
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-style:outset;
+}
